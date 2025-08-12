@@ -1,11 +1,9 @@
 # noisy-labels-normalized-losses
-Author
+##Author
 Name: Soham Ulhas Pujari
 ID: 2024A7PS0490G
 
-Tracks Attempted
-1. Core ML (Compulsory)
-This track focused on robust learning under noisy labels. The goal was to test how different loss functions handle increasing levels of label noise:
+This project is focused on robust learning under noisy labels. The goal was to test how different loss functions handle increasing levels of label noise:
 
 Introduced symmetric noise to the CIFAR-10 dataset.
 Implemented and compared:
